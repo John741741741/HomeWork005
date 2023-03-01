@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\bin\Debug\net6.0\Задача34.exe
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\bin\Debug\net6.0\Задача34.deps.json
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\bin\Debug\net6.0\Задача34.runtimeconfig.json
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\bin\Debug\net6.0\Задача34.dll
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\bin\Debug\net6.0\Задача34.pdb
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\Задача34.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\Задача34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\Задача34.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\Задача34.AssemblyInfo.cs
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\Задача34.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\Задача34.dll
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\refint\Задача34.dll
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\Задача34.pdb
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\Задача34.genruntimeconfig.cache
+C:\Users\John\Desktop\Geek brains\C#\HomeWork5\Задача34\obj\Debug\net6.0\ref\Задача34.dll
