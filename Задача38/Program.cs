@@ -4,10 +4,10 @@
 // [3 7 22 2 78] -> 76
 
 
-int[] arrayResult = new int[5];
+int[] arrayResult = new int[7];
 int[] GetArray()
 {
-    int[] array = new int[5];
+    int[] array = new int[7];
     for (int i = 0; i < array.Length; i++)
         array[i] = new Random().Next(1, 101);
     return array;
@@ -26,7 +26,7 @@ int resultArray(int[] array)
             minNumber = array[i];
     }
     result = maxNumber - minNumber;
-    System.Console.WriteLine($"Разница --> {result}  " );
+    System.Console.WriteLine($"Max Value -> {maxNumber} Min Value -> {minNumber} Difference --> {result}");
     return maxNumber - minNumber;
 }
 

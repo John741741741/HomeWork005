@@ -1,6 +1,6 @@
 ﻿// Задайте массив заполненный случайными положительными 
-// трёхзначными числами. Напишите программу, которая покажет 
-// количество чётных чисел в массиве.
+// трёхзначными числами. 
+// Напишите программу, которая покажет количество чётных чисел в массиве.
 
 // [345, 897, 568, 234] -> 2
 
@@ -31,21 +31,21 @@ int EvenNumbers(int[] numbers, int even)
     int count = numbers.Length;
     int index = 0;
     int position = 0;
+    int result = 0;
     while (index < count)
     {
         if (numbers[index] % 2 == 0)
         {
-            position = index;
+            result= result + 1;
         }
-        index++;
+        index++;//index= index + index
     }
+    System.Console.WriteLine($"-> {result}");
     return position;
 }
 
-int[] massive = new int[4];
+int[] massive = new int[7];
 
 InputArray(massive);
 ShowResult(massive);
-int pos = EvenNumbers(massive, 4);
-
-System.Console.Write("-> " + pos);
+int pos = EvenNumbers(massive, 7);
